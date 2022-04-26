@@ -1,3 +1,9 @@
+# AUTHOR: Michael Harty
+# EMAIL: michaelharty3@gmail.com
+# LICENSE: MIT
+
+# Code for cheating on the New York Times Spelling Bee Game 
+
 import re
 from string import ascii_lowercase
 

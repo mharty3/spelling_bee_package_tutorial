@@ -1,6 +1,10 @@
+# AUTHOR: Michael Harty
+# EMAIL: michaelharty3@gmail.com
+# LICENSE: MIT
+
 import unittest
 
-from word_finder import check_word, word_finder, find_pangrams
+from spelling_bee import check_word, word_finder, find_pangrams
 
 class TestCheckWord(unittest.TestCase):
 
