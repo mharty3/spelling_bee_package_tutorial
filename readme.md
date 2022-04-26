@@ -5,6 +5,8 @@
 The letters for today's game are "LMEXGAP." The challenge is to fine as many word
 words as possible that use of those letters. The "L" must be included must be included . For bonus points, find "pangrams" that use all of the letters.
 
+# Example Usage
+
 ```python
 from word_finder import word_finder
 word_finder("LMEXGAP")
