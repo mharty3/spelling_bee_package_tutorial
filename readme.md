@@ -7,6 +7,8 @@ words as possible that use those letters. The "L" must be included  in all words
 
 For bonus points, find "pangrams" that use all of the letters in a single word.
 
+# Installation
+`pip install spelling-bee-mh`
 # Example Usage
 
 ```python
